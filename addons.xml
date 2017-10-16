@@ -11,10 +11,10 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
     <website></website>
-    <description lang="en">EL MEJOR SOPORTE IPTV PARA EL MUNDO</description>
+    <description lang="en">https://www.facebook.com/ioiptv.iotv/</description>
     <forum></forum>
     <email></email>
-    <disclaimer lang="es">EL MEJOR SOPORTE IPTV PARA EL MUNDO</disclaimer>
+    <disclaimer lang="es">https://www.facebook.com/ioiptv.iotv/</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
